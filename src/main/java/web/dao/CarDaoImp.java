@@ -18,7 +18,6 @@ public class CarDaoImp implements CarDao {
         cars.add(new Car("qwerr",2, "w"));
         cars.add(new Car("qwerrr",3, "e"));
         cars.add(new Car("qwerrrr",4, "r"));
-        cars.add(new Car("qwerrrrr",5, "t"));
     }
 
     @Override
